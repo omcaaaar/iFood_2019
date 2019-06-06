@@ -97,7 +97,7 @@ This folder contains some important files which we'll be using while training ou
   
   The networks are : pnasnet, senet154, polynet and densenet201. The highest scoring model was polynet followed by senet154, pnasnet and densenet201 at last.
   
-  We also tried cleaning dirty labels and then augmenting the data but unfortunately that didn't give promising results.
+  We also tried cleaning dirty labels and then augmenting the data externally but unfortunately that didn't give promising results.
   
   The trained model files can be found [here](https://www.kaggle.com/ochaporkar/ifood-2019-models)
   
