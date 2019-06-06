@@ -121,6 +121,6 @@ Due to time constraint we could not try following techniques, but would have cer
   
   **References:**
   
-    1. Competition link : [kaggle](https://www.kaggle.com/c/ifood-2019-fgvc6)
-    2. Competition link : [github](https://github.com/karansikka1/iFood_2019)
-    3. models : [pretrained-models](https://github.com/Cadene/pretrained-models.pytorch)
+  1. Competition link : [kaggle](https://www.kaggle.com/c/ifood-2019-fgvc6)
+  2. Competition link : [github](https://github.com/karansikka1/iFood_2019)
+  3. models : [pretrained-models](https://github.com/Cadene/pretrained-models.pytorch)
