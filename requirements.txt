@@ -1,0 +1,7 @@
+pandas
+opencv-python
+torch
+torchvision
+numpy
+pretrainedmodels
+Pillow
