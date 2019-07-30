@@ -114,10 +114,11 @@ After ensembling these 4 networks we got 90.54% top-3 accuracy on the test data.
 
 Due to time constraint we could not try following techniques, but would have certainly helped us improving the accuracy by atleast 2-3%.
 
-  1. mixup
-  2. label smoothing
-  3. DropBlock
-  4. we also could have created food pretrained training data by selecting only food-related data in openImage, ImageNet Fall 2011 (inspired by the following paper: [Domain Adaptive Transfer Learning with Specialist Models](https://arxiv.org/abs/1811.07056))
+  1. Training and testing on different scales
+  2. mixup
+  3. label smoothing
+  4. DropBlock
+  5. we also could have created food pretrained training data by selecting only food-related data in openImage, ImageNet Fall 2011 (inspired by the following paper: [Domain Adaptive Transfer Learning with Specialist Models](https://arxiv.org/abs/1811.07056))
   
   **References:**
   
